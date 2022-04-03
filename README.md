@@ -27,12 +27,12 @@ Throughout the project follow this [UE5 style guide by Allar](https://github.com
 *	Rough Level Design and Testing out Levels (3 to 5 Levels).
 *	Make obstacle Game mechanics
 *	Maybe make Background Music collab with Chords and Co
-*	Sound FX and VFX for the character
+*	Sound FX,Animation and VFX for the character
 
 ### 4.	
 *	UI 
 *	Create a few custom assets in blender for obstacles and level design
-*	Sound FX and VFX for the level
+*	Sound FX,Animation and VFX for the level and obstacles
 
 ### 5.	Optimization and Bug Fixing
 
