@@ -40,4 +40,4 @@ Throughout the project follow this [UE5 style guide by Allar](https://github.com
 
 ### 7.	Launch
 
-### 8.	If time is still there, we can continue add new levels and mechanics
+### 8.	If time is still there, we can continue to add new levels and mechanics
