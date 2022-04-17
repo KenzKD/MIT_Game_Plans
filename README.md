@@ -15,7 +15,9 @@ Throughout the project follow this [UE5 style guide by Allar](https://github.com
 ## Steps
 
 ### 1.  
-*	Solid Game Mechanic for the main character (Game play Vibe Selection)
+*	Solid Character Game Mechanic for the main character (Game play Vibe Selection)
+	*	[Side Scrolling Camera and Double Jump by Kenzel](https://youtu.be/gUVn7xhJPH8)
+	*	
 *	Maybe Get the other club members to test
 
 ### 2.	
@@ -25,7 +27,7 @@ Throughout the project follow this [UE5 style guide by Allar](https://github.com
  
 ### 3.	
 *	Rough Level Design and Testing out Levels (3 to 5 Levels).
-*	Make obstacle Game mechanics
+*	Make Obstacle/Puzzling Game mechanics
 *	Maybe make Background Music collab with Chords and Co
 *	Sound FX,Animation and VFX for the character
 
