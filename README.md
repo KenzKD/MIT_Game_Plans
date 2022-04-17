@@ -17,7 +17,7 @@ Throughout the project follow this [UE5 style guide by Allar](https://github.com
 ### 1.  
 *	Solid Character Game Mechanic for the main character (Game play Vibe Selection)
 	*	[Side Scrolling Camera and Double Jump by Kenzel](https://youtu.be/gUVn7xhJPH8)
-	*	
+	*	[Dash mechanic and x-z constraints and calculating character facing direction by Anirudh](https://youtu.be/e1gwhWvBvSY)
 *	Maybe Get the other club members to test
 
 ### 2.	
