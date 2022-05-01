@@ -19,7 +19,7 @@ Throughout the project follow this [UE5 style guide by Allar](https://github.com
 	*	[Side Scrolling Camera and Double Jump by Kenzel](https://youtu.be/gUVn7xhJPH8)
 	*	[Dash mechanic and x-z constraints and calculating character facing direction by Anirudh](https://youtu.be/e1gwhWvBvSY)
 	*	[Sword Attack, Roll and Meelee by Thea](https://youtu.be/lr356mC_wkY)
-	*	Wall Climbing and Ground slide by Deep (WIP)
+	*	[Wall Climbing and Ground slide by Deep](https://youtu.be/Cifwc2M4_9M)
 	*	Flame Thrower and Chaos Destruction by Samir(WIP)
 	*	Ground Pound Attack by Teja(WIP)
 *	Maybe Get the other club members to test
