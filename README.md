@@ -26,7 +26,7 @@ Throughout the project follow this [UE5 style guide by Allar](https://github.com
 
 ### 2.	
 *	Character Design (Theme Selection). 
-	*	[Spaceman Character By Pugazhendhi](https://youtu.be/Lc0esM73b1E)	
+	*	[Spaceman Character By Priyan](https://youtu.be/Lc0esM73b1E)	
 *	Make Functional Unit Tests for the chosen main character game mechanics. 
 * Get Perforce Sorted
  
