@@ -21,7 +21,7 @@ Throughout the project follow this [UE5 style guide by Allar](https://github.com
 	*	[Sword Attack, Roll and Meelee by Thea](https://youtu.be/lr356mC_wkY)
 	*	[Wall Climbing and Ground slide by Deep](https://youtu.be/Cifwc2M4_9M)
 	*	Flame Thrower and Chaos Destruction by Samir(WIP)
-	*	Ground Pound Attack by Teja(WIP)
+	*	[Ground Pound Attack by Teja](https://youtu.be/s4vRsEiQpeU)
 *	Maybe Get the other club members to test
 
 ### 2.	
