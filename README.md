@@ -20,7 +20,7 @@ Throughout the project follow this [UE5 style guide by Allar](https://github.com
 	*	[Dash mechanic and x-z constraints and calculating character facing direction by Anirudh](https://youtu.be/e1gwhWvBvSY)
 	*	[Sword Attack, Roll and Meelee by Thea](https://youtu.be/lr356mC_wkY)
 	*	[Wall Climbing and Ground slide by Deep](https://youtu.be/Cifwc2M4_9M)
-	*	Flame Thrower and Chaos Destruction by Samir(WIP)
+	*	[Flame Thrower and Chaos Destruction by Samir](https://youtu.be/EXzoE6LgZ_Y)
 	*	[Ground Pound Attack by Teja](https://youtu.be/s4vRsEiQpeU)
 *	Maybe Get the other club members to test
 
