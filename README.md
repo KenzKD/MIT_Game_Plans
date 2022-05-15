@@ -27,11 +27,11 @@ Throughout the project follow this [UE5 style guide by Allar](https://github.com
 ### 2.	
 *	Character Design (Theme Selection). 
 	*	[Spaceman Character By Priyan](https://youtu.be/Lc0esM73b1E)	
-*	Make Functional Unit Tests for the chosen main character game mechanics. 
 * 	Get Perforce Sorted
  
 ### 3.	
 *	Bring in the game Mechanics into the new perforce project folder.
+*	Make Functional Unit Tests for the chosen main character game mechanics. 
 *	Rough Level Design and Testing out Levels (3 to 5 Levels).
 *	Maybe make Background Music collab with Chords and Co
 *	Sound FX,Animation and VFX for the character
