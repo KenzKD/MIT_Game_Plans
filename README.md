@@ -17,11 +17,11 @@ Throughout the project follow this [UE5 style guide by Allar](https://github.com
 ### 1.  
 *	Solid Character Game Mechanic for the main character (Game play Vibe Selection)
 	*	[Side Scrolling Camera and Double Jump by Kenzel](https://youtu.be/gUVn7xhJPH8)
-	*	[Dash mechanic and x-z constraints and calculating character facing direction by Anirudh](https://youtu.be/e1gwhWvBvSY)
-	*	[Sword Attack, Roll and Meelee by Thea](https://youtu.be/lr356mC_wkY)
-	*	[Wall Climbing and Ground slide by Deep](https://youtu.be/Cifwc2M4_9M)
-	*	[Flame Thrower and Chaos Destruction by Samir](https://youtu.be/EXzoE6LgZ_Y)
-	*	[Ground Pound Attack by Teja](https://youtu.be/s4vRsEiQpeU)
+	*	[Dash mechanic and x-z constraints and calculating character facing direction by Anirudh](https://youtu.be/e1gwhWvBvSY)[E for Dash]
+	*	[Sword Attack, Roll and Meelee by Thea](https://youtu.be/lr356mC_wkY)[R for Roll, T for Sword Attack, Q for Melee]
+	*	[Wall Climbing and Ground slide by Deep](https://youtu.be/Cifwc2M4_9M)[F for slide]
+	*	[Flame Thrower and Chaos Destruction by Samir](https://youtu.be/EXzoE6LgZ_Y)[G for Flame Thrower]
+	*	[Ground Pound Attack by Teja](https://youtu.be/s4vRsEiQpeU)[V for Ground Pound Attack]
 *	Maybe Get the other club members to test
 
 ### 2.	
