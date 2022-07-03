@@ -31,21 +31,23 @@ Throughout the project follow this [UE5 style guide by Allar](https://github.com
  
 ### 3.	
 *	Bring in the game Mechanics into the new perforce project folder.
+
+### 4.
 *	Make Functional Unit Tests for the chosen main character game mechanics. 
 *	Rough Level Design and Testing out Levels (3 to 5 Levels).
 *	Maybe make Background Music collab with Chords and Co
 *	Sound FX,Animation and VFX for the character
 
-### 4.	
+### 5.	
 *	UI 
 *	Make Obstacle/Puzzling Game mechanics as per the level design
 *	Create a few custom assets in blender for obstacles and level design
 *	Sound FX,Animation and VFX for the level and obstacles
 
-### 5.	Optimization and Bug Fixing
+### 6.	Optimization and Bug Fixing
 
-### 6.	Marketing 
+### 7.	Marketing 
 
-### 7.	Launch
+### 8.	Launch
 
-### 8.	If time is still there, we can continue to add new levels and mechanics
+### 9.	If time is still there, we can continue to add new levels and mechanics
