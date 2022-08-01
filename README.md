@@ -21,7 +21,7 @@ Throughout the project follow this [UE5 style guide by Allar](https://github.com
 	*	[Sword Attack, Roll and Meelee by Thea](https://youtu.be/lr356mC_wkY)[T for Sword Attack]
 	*	[Wall Climbing and Ground slide by Deep](https://youtu.be/Cifwc2M4_9M)[F for slide]
 	*	[Flame Thrower and Chaos Destruction by Samir](https://youtu.be/EXzoE6LgZ_Y)[G for Flame Thrower]
-	*	[Ground Pound Attack by Teja](https://youtu.be/s4vRsEiQpeU)[R for Ground Pound Attack]
+	*	[Ground Pound Attack by Teja](https://youtu.be/s4vRsEiQpeU)[V for Ground Pound Attack]
 *	Maybe Get the other club members to test
 
 ### 2.	
@@ -37,7 +37,7 @@ Throughout the project follow this [UE5 style guide by Allar](https://github.com
 	*	[ ] Slide [Q]
 	*	[ ] Sword Attack [T]
 	*	[ ] Flame Thrower [G]
-	*	[ ] Ground Pound [R]
+	*	[x] Ground Pound [V]
 
 ### 4.
 *	Make Functional Unit Tests for the chosen main character game mechanics. 
