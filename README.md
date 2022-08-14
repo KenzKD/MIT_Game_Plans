@@ -34,9 +34,9 @@ Throughout the project follow this [UE5 style guide by Allar](https://github.com
 *	Bring in the game Mechanics into the new perforce project folder.
 	*	[x] Double Jump 
 	*	[x] Dash [E]	
-	*	[ ] Slide [Q]
+	*	[X] Slide [Z]
 	*	[ ] Sword Attack [T]
-	*	[ ] Flame Thrower [G]
+	*	[ ] Wall Jump
 	*	[x] Ground Pound [V]
 
 ### 4.
