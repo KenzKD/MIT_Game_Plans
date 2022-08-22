@@ -35,12 +35,12 @@ Throughout the project follow this [UE5 style guide by Allar](https://github.com
 	*	[x] Double Jump 
 	*	[x] Dash [E]	
 	*	[X] Slide [Z]
-	*	[ ] Sword Attack [T]
+	*	[X] Sword Attack [T]
 	*	[ ] Wall Jump
 	*	[x] Ground Pound [V]
 
 ### 4.
-*	Make Functional Unit Tests for the chosen main character game mechanics. 
+*	(Optional)Make Functional Unit Tests for the chosen main character game mechanics. 
 *	Rough Level Design and Testing out Levels (3 to 5 Levels).
 *	Maybe make Background Music collab with Chords and Co
 *	Sound FX,Animation and VFX for the character
