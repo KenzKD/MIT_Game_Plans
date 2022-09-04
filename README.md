@@ -32,12 +32,14 @@ Throughout the project follow this [UE5 style guide by Allar](https://github.com
  
 ### 3.	
 *	Bring in the game Mechanics into the new perforce project folder.
+	*	[X] Right [A / Right Arrow Key]
+	*	[X] Left [D / Left Arrow Key]
 	*	[x] Double Jump 
 	*	[x] Dash [E]	
-	*	[X] Slide [Z]
-	*	[X] Sword Attack [T]
-	*	[ ] Wall Jump
-	*	[x] Ground Pound [V]
+	*	[X] Slide [LeftShift]
+	*	[X] Sword Attack [W]
+	*	[X] Wall Jump
+	*	[x] Ground Pound [S]
 
 ### 4.
 *	(Optional)Make Functional Unit Tests for the chosen main character game mechanics. 
