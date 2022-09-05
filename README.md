@@ -34,21 +34,19 @@ Throughout the project follow this [UE5 style guide by Allar](https://github.com
 *	Bring in the game Mechanics into the new perforce project folder.
 	*	[X] Right [A / Right Arrow Key]
 	*	[X] Left [D / Left Arrow Key]
-	*	[x] Double Jump [Spacebar]
+	*	[x] Jump/Double/Wall Jump [W]
 	*	[x] Dash [E]	
 	*	[X] Slide [S on Ground]
-	*	[X] Sword Attack [W]
-	*	[X] Wall Jump [Spacebar]
+	*	[X] Sword Attack [Spacebar]
 	*	[x] Ground Pound [S in Air]
 
 ### 4.
-*	(Optional)Make Functional Unit Tests for the chosen main character game mechanics. 
+*	UI 
 *	Rough Level Design and Testing out Levels (3 to 5 Levels).
 *	Maybe make Background Music collab with Chords and Co
 *	Sound FX,Animation and VFX for the character
 
 ### 5.	
-*	UI 
 *	Make Obstacle/Puzzling Game mechanics as per the level design
 *	Create a few custom assets in blender for obstacles and level design
 *	Sound FX,Animation and VFX for the level and obstacles
