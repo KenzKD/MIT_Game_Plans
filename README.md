@@ -42,7 +42,7 @@ Throughout the project follow this [UE5 style guide by Allar](https://github.com
 
 ### 4.
 *	UI 
-*	Rough Level Design and Testing out Levels (3 to 5 Levels).
+*	Rough Level Design and Testing out Levels.
 *	Maybe make Background Music collab with Chords and Co
 *	Sound FX,Animation and VFX for the character
 
